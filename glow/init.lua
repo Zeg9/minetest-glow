@@ -8,6 +8,7 @@ minetest.register_node("glow:stone", {
 	tile_images = {"glow_stone.png"},
 	light_source = LIGHT_MAX,
 	groups = {cracky=3},
+	sounds = default.node_sound_glass_defaults(),
 })
 
 minetest.register_node("glow:lamp", {
@@ -15,6 +16,7 @@ minetest.register_node("glow:lamp", {
 	tile_images = {"glow_lamp.png"},
 	light_source = LIGHT_MAX,
 	groups = {cracky=3},
+	sounds = default.node_sound_glass_defaults(),
 })
 
 
