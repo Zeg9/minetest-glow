@@ -1,4 +1,5 @@
 minetest-glow
 =============
 
-Glowing blocks for minetest
+Adds 2 glowing blocks for minetest:
+Glowing stone and glowing lantern.
