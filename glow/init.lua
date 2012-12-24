@@ -1,6 +1,8 @@
 -- glow/init.lua
 -- mod by john and Zeg9
 
+LIGHT_MAX = 14
+
 minetest.register_node("glow:stone", {
 	description = "Glowing stone",
 	tile_images = {"glow_stone.png"},
